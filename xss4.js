@@ -1,4 +1,3 @@
-alert(1);
 	var xhr = new XMLHttpRequest();
 
 		  xhr.onreadystatechange = () => {
